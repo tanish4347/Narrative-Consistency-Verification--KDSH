@@ -19,8 +19,6 @@ INPUT_CSV = "./Dataset/train.csv"
 OUTPUT_CSV = "./Dataset/train_with_claims.csv"
 MIN_CLAIMS = 3
 
-
-
 MODEL_NAME = "gpt-4o-mini"
 
 # =====================================================
