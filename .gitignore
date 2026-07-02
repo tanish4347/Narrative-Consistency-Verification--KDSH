@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+hackathon_ml_env/
+venv/
+.venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+
+# Generated files
+vector_store
+vector_store/
+outputs/
+.cache/
+*.log
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,9 @@
+openai
+pathway
+sentence-transformers
+numpy
+pandas
+scikit-learn
+rank-bm25
+pytest
+python-dotenv
